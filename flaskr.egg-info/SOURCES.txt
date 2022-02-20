@@ -6,3 +6,7 @@ flaskr.egg-info/dependency_links.txt
 flaskr.egg-info/not-zip-safe
 flaskr.egg-info/requires.txt
 flaskr.egg-info/top_level.txt
+flaskr/static/css/style.css
+flaskr/static/img/wonderfulview.png
+flaskr/static/js/main.js
+flaskr/templates/base.html
